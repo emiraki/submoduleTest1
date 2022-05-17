@@ -16,6 +16,7 @@
 		AC2623A02833D685007F5605 /* SubmoduleTest1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC26239F2833D685007F5605 /* SubmoduleTest1Tests.swift */; };
 		AC2623AA2833D685007F5605 /* SubmoduleTest1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2623A92833D685007F5605 /* SubmoduleTest1UITests.swift */; };
 		AC2623AC2833D685007F5605 /* SubmoduleTest1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2623AB2833D685007F5605 /* SubmoduleTest1UITestsLaunchTests.swift */; };
+		AC2623B92833E137007F5605 /* TestFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2623B82833E137007F5605 /* TestFeature.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		AC2623A52833D685007F5605 /* SubmoduleTest1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SubmoduleTest1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC2623A92833D685007F5605 /* SubmoduleTest1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmoduleTest1UITests.swift; sourceTree = "<group>"; };
 		AC2623AB2833D685007F5605 /* SubmoduleTest1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmoduleTest1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AC2623B82833E137007F5605 /* TestFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFeature.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				AC2623882833D683007F5605 /* AppDelegate.swift */,
 				AC26238A2833D683007F5605 /* SceneDelegate.swift */,
 				AC26238C2833D683007F5605 /* ViewController.swift */,
+				AC2623B82833E137007F5605 /* TestFeature.swift */,
 				AC26238E2833D683007F5605 /* Main.storyboard */,
 				AC2623912833D685007F5605 /* Assets.xcassets */,
 				AC2623932833D685007F5605 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC2623B92833E137007F5605 /* TestFeature.swift in Sources */,
 				AC26238D2833D683007F5605 /* ViewController.swift in Sources */,
 				AC2623892833D683007F5605 /* AppDelegate.swift in Sources */,
 				AC26238B2833D683007F5605 /* SceneDelegate.swift in Sources */,
